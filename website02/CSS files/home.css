@@ -1,0 +1,40 @@
+main h5{
+    color: rgb(251, 14, 14);
+    font-weight: 700;
+    font-style: italic;
+    font-size: 40px;
+    font-family: cursive;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+main p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+main a{
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 35px;
+    text-decoration: none;
+}
+main a.instagram:hover, a.facebook:hover, a.youtube:hover{
+    font-size: 37.5px;
+    color: yellow;
+}
+main a.youtube{
+    color: red;
+}
+main a.facebook{
+    color: blue;
+}
+main a.instagram{
+    color: rgb(255, 0, 136);
+}
+main div{
+    border-radius: 25px;
+    border: 5px solid yellow;
+    margin-left: 250px ;
+    margin-right: 250px;
+}
